@@ -22,7 +22,7 @@ import android.widget.TextView;
 /**
  * 日历gridview中的每一个item显示的textview
  * 
- * @author Vincent Lee
+ * @author Wang
  * 
  */
 public class CalendarAdapter extends BaseAdapter {

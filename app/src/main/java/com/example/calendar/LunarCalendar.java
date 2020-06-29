@@ -7,7 +7,7 @@ import java.util.Date;
 /**
  * 农历算法
  * 
- * @author Vincent Lee
+ * @author Wang
  * 
  */
 public class LunarCalendar {

@@ -29,7 +29,7 @@ import android.widget.ViewFlipper;
 /**
  * 日历显示activity
  * 
- * @author Vincent Lee
+ * @author Wang
  * 
  */
 public class CalendarActivity extends Activity implements View.OnClickListener {

@@ -5,7 +5,7 @@ import java.util.Calendar;
 /**
  * 闰年月算法
  * 
- * @author Vincent Lee
+ * @author Wang
  * 
  */
 public class SpecialCalendar {
